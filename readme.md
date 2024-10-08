@@ -36,3 +36,7 @@ cd github-activity-cli
 Fetching a GitHub user's recent activity
 To fetch the recent activity of a GitHub user, run the following command:
 `node githubActivity.js <GitHub-username>`
+
+### Contributing
+
+If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
